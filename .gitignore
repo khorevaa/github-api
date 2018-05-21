@@ -1,0 +1,9 @@
+
+test*.xml
+bdd*.xml
+*.ospx
+
+
+coverage/*
+
+.vscode/*
